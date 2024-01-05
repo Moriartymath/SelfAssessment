@@ -1,11 +1,11 @@
-## Asynchronous programming
+﻿## Asynchronous programming
 
 - Theory
-  - Event loop
-  - try..catch
-  - Non-blocking
-  - Async I/O
-  - Thread pool
+  - Event loop 👂
+  - try..catch 👂
+  - Non-blocking 👂
+  - Async I/O 👂
+  - Thread pool 👂
   - Pattern Reactor
   - CAS operations
   - epoll
@@ -17,10 +17,10 @@
   - Dead locks
   - Live locks
   - Concurrent programming
-  - Parallel programming
+  - Parallel programming 🎓
   - Actor Model
-  - Thread
-  - Process
+  - Thread 👂
+  - Process  👂
 - Async contracts
   - Callbacks
   - Callback-last-error-first
@@ -56,7 +56,7 @@
   - Async Queue
   - Async Collector
   - Semaphore
-  - Mutex
+  - Mutex 
   - Spin Lock
 - JavaScript & Node.js specific
   - Timers
