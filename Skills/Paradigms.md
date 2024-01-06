@@ -1,6 +1,7 @@
 ﻿## Multi-paradigm programming
 
 - Theory
+<<<<<<< HEAD
   - Procedural programming 🎓
   - Imperative programming 🎓
   - Structured programming 👂 
@@ -64,3 +65,68 @@
   - Memento 👂
   - Template Method 👂
   - Visitor 👂
+=======
+  - Procedural programming: 🎓 known
+  - Imperative programming:🎓 known
+  - Structured programming: 👂 heard
+  - Non-structured programming: 👂 heard 
+  - Functional programming: 👂 heard
+  - Prototype-based programming: 👂 heard 
+  - Object-oriented programming: 🎓 known
+  - Object-based programming: 👂 heard
+  - Generic programming: 👂 heard
+  - Concurrent computing: 👂 heard
+  - Asyncronous programming: 👂 heard
+  - Parallel programming: 👂heard
+  - Reactive programming: 👂 heard
+  - FRP (Functional-reactive): 👂heard 
+  - Automata-based programming: 👂 heard
+  - Domain-specific languages: 👂heard 
+  - Multi-paradigm programming: 🎓 known
+  - Metaprogramming: 👂 heard  
+  - Actor model: 👂heard 
+- OOP basics
+  - constructor: 🖐️ used
+  - new: 👂heard 
+  - Static method: 👂heard 
+  - Method: 🖐️used
+  - Async method: 👂heard 
+  - Getters, Setters: 🖐️used
+  - Public fields: 👂heard 
+  - Private fields: 👂heard 
+  - Field declarations: 🖐️
+  - Inheritance: 🖐️ used 
+  - Parent class: 🖐️used
+  - Polymorphism: 👂heard 
+  - Abstract class: 👂heard 
+  - Interface: 👂heard 
+  - Encapsulation: 👂heard 
+  - Hidden class: 👂heard 
+  - Object form: 👂heard 
+  - instance: 👂heard 
+  - Introspection: 👂heard 
+  - Reflection: 👂heard 
+- Patterns
+  - Singleton: 👂heard 
+  - Factory Method:  👂heard 
+  - Abstract Factory: 👂heard 
+  - Adapter: 👂heard 
+  - Observer: 👂heard 
+  - Strategy: 👂heard 
+  - Facade: 👂heard 
+  - Proxy: 👂heard 
+  - Chain of Responsibility:👂heard 
+  - Command: 👂heard 
+  - Iterator: 👂heard 
+  - State: 👂heard 
+  - Bridge: 👂heard 
+  - Builder: 👂heard 
+  - Prototype: 👂heard 
+  - Composite: 👂heard 
+  - Decorator: 👂heard 
+  - Flyweight: 👂heard 
+  - Mediator: 👂heard 
+  - Memento: 👂heard 
+  - Template Method: 👂heard 
+  - Visitor: 👂heard 
+>>>>>>> 2023-autumn
